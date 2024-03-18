@@ -1,0 +1,7 @@
+{
+  "name": "limpa-maceio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
